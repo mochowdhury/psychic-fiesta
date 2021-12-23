@@ -40,3 +40,8 @@ Text shaking animation from by https://www.w3schools.com/howto/howto_css_shake_i
 #instruct-ul-id {
     list-style-type: none;
 }
+
+#search-div-id {
+    margin: 0 auto;
+    padding-top: 0;
+}
